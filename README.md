@@ -8,6 +8,6 @@
 
 <p>I am a web developer in Barcelona. I started in web development at the end of 2019, after finishing my university studies </p>
   
-- 🌱 I’m currently learning, testing
+- 🌱 I’m currently learning, flutter
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cherto/)
 
